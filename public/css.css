@@ -1,0 +1,78 @@
+.carousel-inner img {
+    width: 100%;
+    height: 100%;
+}
+body {
+    background-color: grey;
+}
+
+.container p {
+    color: white;
+}
+
+ul li  {
+    color: cornflowerblue;
+}
+
+.container img{
+    padding-top: 3%;
+    padding-bottom: 3%;
+    width: 100%;
+    height: auto;
+}
+
+
+h1 {
+    color: cornflowerblue;
+    text-align: center;
+}
+
+h2{
+    color: cornflowerblue;
+    font-variant-east-asian: simplified;
+}
+div p {
+    color: white;
+    font-size: large;
+
+}
+
+
+
+.Register {
+    background-image: url("/public/obr/poz1.jpg");
+}
+
+
+.Pridaj {
+    background-image: url("/public/obr/poz2.jpg");
+
+}
+.QnAA{
+    background-image: url("/public/obr/poz1.jpg");
+}
+
+.card-body p {
+    color:black;
+}
+
+.login-form:invalid{
+
+   background-color: red;
+}
+
+.form-control {
+    padding-top: 1%;
+}
+.form-row {
+        padding-bottom: 1%;
+
+}
+
+.card-body h5 {
+    font-size: medium;
+}
+
+.card-body p{
+    font-size: small;
+}
